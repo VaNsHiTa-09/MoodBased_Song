@@ -1,0 +1,37 @@
+mood,language,song,youtube_link,image_url
+happy,English,Pharrell Williams - Happy,https://youtu.be/ZbZSe6N_BXs,https://i.ytimg.com/vi/ZbZSe6N_BXs/hqdefault.jpg
+happy,English,Justin Timberlake - Can't Stop the Feeling!,https://youtu.be/ru0K8uYEZWw,https://i.ytimg.com/vi/ru0K8uYEZWw/hqdefault.jpg
+happy,Hindi,Arijit Singh - Ilahi,https://youtu.be/bv2EOk4a4tw,https://i.ytimg.com/vi/bv2EOk4a4tw/hqdefault.jpg
+happy,Hindi,Shankar Mahadevan - Breathless,https://youtu.be/PgYaIdgOZbA,https://i.ytimg.com/vi/PgYaIdgOZbA/hqdefault.jpg
+happy,Punjabi,Diljit Dosanjh - Do You Know,https://youtu.be/9U97dDjUNsI,https://i.ytimg.com/vi/9U97dDjUNsI/hqdefault.jpg
+happy,Punjabi,Guru Randhawa - High Rated Gabru,https://youtu.be/MTt3e2NHfUc,https://i.ytimg.com/vi/MTt3e2NHfUc/hqdefault.jpg
+sad,English,Adele - Someone Like You,https://youtu.be/hLQl3WQQoQ0,https://i.ytimg.com/vi/hLQl3WQQoQ0/hqdefault.jpg
+sad,English,James Blunt - Goodbye My Lover,https://youtu.be/wVyggTKDcOE,https://i.ytimg.com/vi/wVyggTKDcOE/hqdefault.jpg
+sad,Hindi,Arijit Singh - Tujhe Bhula Diya,https://youtu.be/K9XswI6_gGU,https://i.ytimg.com/vi/K9XswI6_gGU/hqdefault.jpg
+sad,Hindi,KK - Tadap Tadap,https://youtu.be/8EW9sL7C4bY,https://i.ytimg.com/vi/8EW9sL7C4bY/hqdefault.jpg
+sad,Punjabi,Amrinder Gill - Judaa,https://youtu.be/jFWeRIVVYZg,https://i.ytimg.com/vi/jFWeRIVVYZg/hqdefault.jpg
+sad,Punjabi,B Praak - Mann Bharrya,https://youtu.be/zDiQoYK8nC0,https://i.ytimg.com/vi/zDiQoYK8nC0/hqdefault.jpg
+energetic,English,Eminem - Lose Yourself,https://youtu.be/_Yhyp-_hX2s,https://i.ytimg.com/vi/_Yhyp-_hX2s/hqdefault.jpg
+energetic,English,Imagine Dragons - Thunder,https://youtu.be/fKopy74weus,https://i.ytimg.com/vi/fKopy74weus/hqdefault.jpg
+energetic,Hindi,Yo Yo Honey Singh - Desi Kalakaar,https://youtu.be/p6E9R9q7-mM,https://i.ytimg.com/vi/p6E9R9q7-mM/hqdefault.jpg
+energetic,Hindi,Baaghi - Get Ready to Fight,https://youtu.be/xWykPz0PQrc,https://i.ytimg.com/vi/xWykPz0PQrc/hqdefault.jpg
+energetic,Punjabi,Sidhu Moosewala - So High,https://youtu.be/6wX6ZfVxU1k,https://i.ytimg.com/vi/6wX6ZfVxU1k/hqdefault.jpg
+energetic,Punjabi,Karan Aujla - Chitta Kurta,https://youtu.be/mgYIobcM5f4,https://i.ytimg.com/vi/mgYIobcM5f4/hqdefault.jpg
+relaxed,English,Coldplay - Yellow,https://youtu.be/yKNxeF4KMsY,https://i.ytimg.com/vi/yKNxeF4KMsY/hqdefault.jpg
+relaxed,English,Ed Sheeran - Photograph,https://youtu.be/nSDgHBxUbVQ,https://i.ytimg.com/vi/nSDgHBxUbVQ/hqdefault.jpg
+relaxed,Hindi,Papon - Jiyein Kyun,https://youtu.be/ziP-l1QqT5w,https://i.ytimg.com/vi/ziP-l1QqT5w/hqdefault.jpg
+relaxed,Hindi,Shreya Ghoshal - Sunn Raha Hai,https://youtu.be/2uYs0gJD-LE,https://i.ytimg.com/vi/2uYs0gJD-LE/hqdefault.jpg
+relaxed,Punjabi,Satinder Sartaaj - Sai,https://youtu.be/tS8dkqDkljc,https://i.ytimg.com/vi/tS8dkqDkljc/hqdefault.jpg
+relaxed,Punjabi,Ammy Virk - Qismat,https://youtu.be/VrDJ5azfPGo,https://i.ytimg.com/vi/VrDJ5azfPGo/hqdefault.jpg
+angry,English,Linkin Park - Numb,https://youtu.be/kXYiU_JCYtU,https://i.ytimg.com/vi/kXYiU_JCYtU/hqdefault.jpg
+angry,English,Three Days Grace - I Hate Everything About You,https://youtu.be/d8ekz_CSBVg,https://i.ytimg.com/vi/d8ekz_CSBVg/hqdefault.jpg
+angry,Hindi,Emiway Bantai - Firse Machayenge,https://youtu.be/fZxwKNV_9G4,https://i.ytimg.com/vi/fZxwKNV_9G4/hqdefault.jpg
+angry,Hindi,Raftaar - Angry,https://youtu.be/UH0M7tO_gbU,https://i.ytimg.com/vi/UH0M7tO_gbU/hqdefault.jpg
+angry,Punjabi,Bohemia - Kali Denali,https://youtu.be/T1SpDNZIS3Y,https://i.ytimg.com/vi/T1SpDNZIS3Y/hqdefault.jpg
+angry,Punjabi,Sikander Kahlon - Mansa,https://youtu.be/FgjGSFzMwq4,https://i.ytimg.com/vi/FgjGSFzMwq4/hqdefault.jpg
+love,English,Ed Sheeran - Perfect,https://youtu.be/2Vv-BfVoq4g,https://i.ytimg.com/vi/2Vv-BfVoq4g/hqdefault.jpg
+love,English,John Legend - All of Me,https://youtu.be/450p7goxZqg,https://i.ytimg.com/vi/450p7goxZqg/hqdefault.jpg
+love,Hindi,Arijit Singh - Tum Hi Ho,https://youtu.be/Umqb9KENgmk,https://i.ytimg.com/vi/Umqb9KENgmk/hqdefault.jpg
+love,Hindi,Rahat Fateh Ali Khan - Zaroori Tha,https://youtu.be/0G2VxhV_gXM,https://i.ytimg.com/vi/0G2VxhV_gXM/hqdefault.jpg
+love,Punjabi,Jass Manak - Prada,https://youtu.be/U8EQdQbeyfI,https://i.ytimg.com/vi/U8EQdQbeyfI/hqdefault.jpg
+love,Punjabi,Satinder Sartaaj - Udaarian,https://youtu.be/MmEcbhM1U9c,https://i.ytimg.com/vi/MmEcbhM1U9c/hqdefault.jpg
